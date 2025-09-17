@@ -14,13 +14,6 @@ I'm a passionate JavaScript developer with a focus on creating dynamic web and m
 - deno 2.0
 - Threejs
 
-## 🔧 Projects
-Here are a few of my notable projects:
-
-- **Hospital System(https://github.com/lleull/Hospital_system)**: i build a web application for a Hospital called  NewLife in Ethiopia using Framework called Reactjs and CSs for styling .
-- **CoinBase (https://github.com/lleull/CoinBase)**: A live market price of the Crypto world. created using a Restful api and React Javascript Framework.
-- **E-beauty (https://github.com/lleull/E-beauty)**: A landing page for a cosomtic brand called e-beauty.
-
 
 ## 📫 Get in Touch
 - **Email:** (leulmekonnen049@gmail.com)
